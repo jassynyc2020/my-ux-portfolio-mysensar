@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  display: grid;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: darkblue;
+}
+img {
+  display: flex;
+  margin: 0 auto;
+}
+button {
+  padding: 0px 0px;
+}
+.mySensAR-description {
+  display: flex;
+  justify-content: center;
+  margin: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+.mySensar {
+  display: flex;
+  justify-content: center;
+}
+.mygif {
+  display: flex;
+  margin: 0 auto;
+}
